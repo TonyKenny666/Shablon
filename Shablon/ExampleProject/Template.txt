@@ -1,0 +1,16 @@
+﻿Name: [#Name#]
+Addrss: [#Address#]
+
+Order Items
+[#StartOrderLines#]
+[#ID#] [#Description#] [#Price#] [#Quantity#] [#Total#]
+[#EndOrderLines#]
+
+Contact Info
+[#ContactInfoStart#]
+[#_Name#] : [#_Value#]
+[#ContactInfoEnd#]
+
+[#OfficesStart#]
+|[#Office#]| 
+[#OfficesEnd#]
